@@ -1,0 +1,50 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey;
+}
+
+}
+.alumni_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.alumni_head i {
+    float: right;
+}
+
+.alumni_text span {
+    color: #ff7700;
+}
+.new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.new_li img {
+    border-radius: 25px;
+}
+
+.new_li p {
+    margin-top: 10px;
+}
+
+#principal{
+    height: 70px; 
+    width: 70px;
+}
